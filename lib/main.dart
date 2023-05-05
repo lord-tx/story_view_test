@@ -64,17 +64,32 @@ class _MyHomePageState extends State<MyHomePage> {
         storyType: StoryType.image
     ),
     Story(
-        storyUrl: "https://www.picserver.org/assets/library/2020-10-31/originals/example1.jpg",
+        storyUrl: "https://fanect-content.s3.us-east-2.amazonaws.com//C479346B-FCDC-4A76-8ACB-4AB5FF1B95F5F511D28B-6644-496E-AB0A-A9DC44DE4FB3.mp4",
+        format: "mp4",
+        storyType: StoryType.video
+    ),
+    Story(
+        storyUrl: "https://www.cameraegg.org/wp-content/uploads/2016/01/Nikon-D500-Sample-Images-1.jpg",
         format: "jpg",
         storyType: StoryType.image
     ),
     Story(
-        storyUrl: "https://www.picserver.org/assets/library/2020-10-31/originals/example1.jpg",
+        storyUrl: "https://www.cameraegg.org/wp-content/uploads/2016/01/Nikon-D500-Sample-Images-5.jpg",
         format: "jpg",
         storyType: StoryType.image
     ),
     Story(
-        storyUrl: "https://www.picserver.org/assets/library/2020-10-31/originals/example1.jpg",
+        storyUrl: "https://www.cameraegg.org/wp-content/uploads/2016/01/Nikon-D500-Sample-Images-5.jpg",
+        format: "jpg",
+        storyType: StoryType.image
+    ),
+    Story(
+        storyUrl: "https://www.cameraegg.org/wp-content/uploads/2016/01/Nikon-D500-Sample-Images-5.jpg",
+        format: "jpg",
+        storyType: StoryType.image
+    ),
+    Story(
+        storyUrl: "https://www.cameraegg.org/wp-content/uploads/2016/01/Nikon-D500-Sample-Images-5.jpg",
         format: "jpg",
         storyType: StoryType.image
     ),
